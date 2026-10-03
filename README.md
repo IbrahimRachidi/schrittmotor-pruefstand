@@ -85,3 +85,7 @@ Der Arduino-Sketch liegt in [`pruefstand/pruefstand.ino`](pruefstand/pruefstand.
 ## Verwendete Werkzeuge
 
 Arduino IDE (C/C++), Fritzing (Schaltpläne), Multimeter
+
+<img width="2048" height="942" alt="f2b37d69-c307-493a-8c50-c10bb5f3fdaf" src="https://github.com/user-attachments/assets/ab169ea7-cd06-4ae2-91d2-e8eba046cb31" />
+<img width="2042" height="1206" alt="ac734d93-55ab-4f82-87de-be9d09c03024" src="https://github.com/user-attachments/assets/6631aa4d-60d2-4fa5-b5e9-47ab95e6a6fd" />
+
